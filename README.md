@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Monalicous
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development using Chad vidoes because I find him easy to understand
-- 💞️ I’m looking for someone to guide me whever I am stuck.
+- 👋 Hi, I’m Samukelisiwe Monalisa Ntusi
+- 👀 I’m interested in Web Development with the aim to becoming a software engineer one day
+- 🌱 I’m currently learning Web Development on coursera and trying to grasp as much information as i can
+- 💞️ I’m looking for someone to guide me whenever I am stuck.
 - 📫 You can reach me through git hub or codepen 
 
 <!---
