@@ -10,7 +10,4 @@
 # ⚡ Fun fact: ...
   I love physical training as well as gaming my favourite game is COD mobile.
 
-<!---
-Monalicous/Monalicous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
